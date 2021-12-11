@@ -1,1 +1,2 @@
-# hackaton-app
+# yarn install
+# yarn start
